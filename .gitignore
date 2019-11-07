@@ -1,4 +1,5 @@
-idea
+.idea
 node_modules
 scripts
 config
+*.DS_Store
